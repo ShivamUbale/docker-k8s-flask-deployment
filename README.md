@@ -27,8 +27,6 @@ This project demonstrates a complete **DevOps workflow**:
 4. Deploy the container on Kubernetes
 5. Expose the application using a Kubernetes Service
 
-This project is suitable for **DevOps, Cloud, and Kubernetes fresher-level interviews**.
-
 ---
 
 ## 🧠 Technologies Used
